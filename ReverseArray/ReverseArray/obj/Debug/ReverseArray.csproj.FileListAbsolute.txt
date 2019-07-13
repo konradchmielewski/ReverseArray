@@ -1,0 +1,7 @@
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ReverseArray\ReverseArray\bin\Debug\ReverseArray.exe.config
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ReverseArray\ReverseArray\bin\Debug\ReverseArray.exe
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ReverseArray\ReverseArray\bin\Debug\ReverseArray.pdb
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ReverseArray\ReverseArray\obj\Debug\ReverseArray.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ReverseArray\ReverseArray\obj\Debug\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ReverseArray\ReverseArray\obj\Debug\ReverseArray.exe
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ReverseArray\ReverseArray\obj\Debug\ReverseArray.pdb
